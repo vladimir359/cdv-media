@@ -1,0 +1,22 @@
+[
+ {"slug":"hero",              "kind":"hero", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/resized_web_hero_cdv*"},
+ {"slug":"og",                "kind":"og",   "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/resized_web_hero_cdv*"},
+ {"slug":"azotea-atardecer",  "kind":"wide", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/azotea-atardecer*"},
+ {"slug":"carrusel-2",        "kind":"wide", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/web_carrusel_2*"},
+ {"slug":"img-0475",          "kind":"wide", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/IMG_0475.jpg"},
+ {"slug":"carrusel-5",        "kind":"wide", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/web_carrusel_5*"},
+ {"slug":"mananas-luz",       "kind":"wide", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/ChatGPT_Image_20_mar*"},
+ {"slug":"parque-mascotas-2", "kind":"wide", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/cdv-parque-de-mascotas_*"},
+ {"slug":"valle-novarum",     "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/DJI_20250514093524_0297*"},
+ {"slug":"valle-barani",      "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/barani_*"},
+ {"slug":"plaza-diagonal",    "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/DJI_20250627095734_0318*"},
+ {"slug":"valle-castilla",    "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/CIIP_mink*"},
+ {"slug":"casa-club",         "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/casaclub-div*"},
+ {"slug":"piscina",           "kind":"wide", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/piscina_50*"},
+ {"slug":"gimnasio",          "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/gym_50*"},
+ {"slug":"yoga",              "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/Z_Yoga*"},
+ {"slug":"cancha-sintetica",  "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/cdv-cancha-sintetica*"},
+ {"slug":"circuito-atletico", "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/circuito-atletico*"},
+ {"slug":"juegos-infantiles", "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/cdv-juegos-infantiles*"},
+ {"slug":"parque-mascotas",   "kind":"card", "src":"/Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/Documents/CDV/sitio-web-originales/cdv-parque-de-mascotas-3*"}
+]
