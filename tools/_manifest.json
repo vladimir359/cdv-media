@@ -153,54 +153,6 @@
   ]
  },
  {
-  "slug": "img-0475",
-  "src": "IMG_0475.jpg",
-  "orig": [
-   4000,
-   4000
-  ],
-  "widths": [
-   2560,
-   1920,
-   1280,
-   800
-  ],
-  "files": [
-   [
-    "img-0475-2560.webp",
-    2161066
-   ],
-   [
-    "img-0475-2560.avif",
-    1794568
-   ],
-   [
-    "img-0475-1920.webp",
-    972818
-   ],
-   [
-    "img-0475-1920.avif",
-    759082
-   ],
-   [
-    "img-0475-1280.webp",
-    272550
-   ],
-   [
-    "img-0475-1280.avif",
-    183460
-   ],
-   [
-    "img-0475-800.webp",
-    69980
-   ],
-   [
-    "img-0475-800.avif",
-    54331
-   ]
-  ]
- },
- {
   "slug": "carrusel-5",
   "src": "casas-calle_DJI_20250205085200_0264_D.jpg",
   "orig": [
@@ -866,6 +818,102 @@
    [
     "plaza-diagonal-500.avif",
     32521
+   ]
+  ]
+ },
+ {
+  "slug": "respira-paz",
+  "src": "patio-terraza_patio.jpg",
+  "orig": [
+   3784,
+   2876
+  ],
+  "widths": [
+   2560,
+   1920,
+   1280,
+   800
+  ],
+  "files": [
+   [
+    "respira-paz-2560.webp",
+    866712
+   ],
+   [
+    "respira-paz-2560.avif",
+    616076
+   ],
+   [
+    "respira-paz-1920.webp",
+    531182
+   ],
+   [
+    "respira-paz-1920.avif",
+    409677
+   ],
+   [
+    "respira-paz-1280.webp",
+    248612
+   ],
+   [
+    "respira-paz-1280.avif",
+    202807
+   ],
+   [
+    "respira-paz-800.webp",
+    95640
+   ],
+   [
+    "respira-paz-800.avif",
+    81045
+   ]
+  ]
+ },
+ {
+  "slug": "img-0475",
+  "src": "patio-terraza_patio.jpg",
+  "orig": [
+   3784,
+   2876
+  ],
+  "widths": [
+   2560,
+   1920,
+   1280,
+   800
+  ],
+  "files": [
+   [
+    "respira-paz-2560.webp",
+    866712
+   ],
+   [
+    "respira-paz-2560.avif",
+    616076
+   ],
+   [
+    "respira-paz-1920.webp",
+    531182
+   ],
+   [
+    "respira-paz-1920.avif",
+    409677
+   ],
+   [
+    "respira-paz-1280.webp",
+    248612
+   ],
+   [
+    "respira-paz-1280.avif",
+    202807
+   ],
+   [
+    "respira-paz-800.webp",
+    95640
+   ],
+   [
+    "respira-paz-800.avif",
+    81045
    ]
   ]
  }
