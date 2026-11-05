@@ -1,5 +1,158 @@
 [
  {
+  "slug": "hero",
+  "src": "ia-drone-novarum-1.png",
+  "orig": [
+   1365,
+   768
+  ],
+  "widths": [
+   1365,
+   1280,
+   800
+  ],
+  "files": [
+   [
+    "hero-1365.webp",
+    270164
+   ],
+   [
+    "hero-1365.avif",
+    229672
+   ],
+   [
+    "hero-1280.webp",
+    236550
+   ],
+   [
+    "hero-1280.avif",
+    199570
+   ],
+   [
+    "hero-800.webp",
+    110114
+   ],
+   [
+    "hero-800.avif",
+    94833
+   ]
+  ]
+ },
+ {
+  "slug": "og",
+  "src": "ia-drone-novarum-1.png",
+  "orig": [
+   1365,
+   768
+  ],
+  "widths": [],
+  "files": [
+   [
+    "og.jpg",
+    257226
+   ]
+  ]
+ },
+ {
+  "slug": "concepto",
+  "src": "ia-drone-novarum.png",
+  "orig": [
+   1376,
+   768
+  ],
+  "widths": [
+   1376,
+   1280,
+   800
+  ],
+  "files": [
+   [
+    "concepto-1376.webp",
+    213698
+   ],
+   [
+    "concepto-1376.avif",
+    177485
+   ],
+   [
+    "concepto-1280.webp",
+    183584
+   ],
+   [
+    "concepto-1280.avif",
+    155503
+   ],
+   [
+    "concepto-800.webp",
+    85812
+   ],
+   [
+    "concepto-800.avif",
+    73345
+   ]
+  ]
+ },
+ {
+  "slug": "azotea-atardecer",
+  "src": "ia-azotea-1.png",
+  "orig": [
+   1195,
+   896
+  ],
+  "widths": [
+   1195,
+   800
+  ],
+  "files": [
+   [
+    "azotea-atardecer-1195.webp",
+    167154
+   ],
+   [
+    "azotea-atardecer-1195.avif",
+    136529
+   ],
+   [
+    "azotea-atardecer-800.webp",
+    76216
+   ],
+   [
+    "azotea-atardecer-800.avif",
+    64071
+   ]
+  ]
+ },
+ {
+  "slug": "carrusel-2",
+  "src": "ia-drone3.png",
+  "orig": [
+   1008,
+   1046
+  ],
+  "widths": [
+   1008,
+   800
+  ],
+  "files": [
+   [
+    "carrusel-2-1008.webp",
+    181088
+   ],
+   [
+    "carrusel-2-1008.avif",
+    146903
+   ],
+   [
+    "carrusel-2-800.webp",
+    122190
+   ],
+   [
+    "carrusel-2-800.avif",
+    100572
+   ]
+  ]
+ },
+ {
   "slug": "img-0475",
   "src": "IMG_0475.jpg",
   "orig": [
@@ -44,6 +197,675 @@
    [
     "img-0475-800.avif",
     54331
+   ]
+  ]
+ },
+ {
+  "slug": "carrusel-5",
+  "src": "casas-calle_DJI_20250205085200_0264_D.jpg",
+  "orig": [
+   4032,
+   2268
+  ],
+  "widths": [
+   2560,
+   1920,
+   1280,
+   800
+  ],
+  "files": [
+   [
+    "carrusel-5-2560.webp",
+    171808
+   ],
+   [
+    "carrusel-5-2560.avif",
+    122093
+   ],
+   [
+    "carrusel-5-1920.webp",
+    114404
+   ],
+   [
+    "carrusel-5-1920.avif",
+    84339
+   ],
+   [
+    "carrusel-5-1280.webp",
+    58140
+   ],
+   [
+    "carrusel-5-1280.avif",
+    44857
+   ],
+   [
+    "carrusel-5-800.webp",
+    27504
+   ],
+   [
+    "carrusel-5-800.avif",
+    22015
+   ]
+  ]
+ },
+ {
+  "slug": "mananas-luz",
+  "src": "ia-sala-cocina-terraza.png",
+  "orig": [
+   896,
+   1195
+  ],
+  "widths": [
+   896,
+   800
+  ],
+  "files": [
+   [
+    "mananas-luz-896.webp",
+    77976
+   ],
+   [
+    "mananas-luz-896.avif",
+    59870
+   ],
+   [
+    "mananas-luz-800.webp",
+    63490
+   ],
+   [
+    "mananas-luz-800.avif",
+    49252
+   ]
+  ]
+ },
+ {
+  "slug": "parque-mascotas-2",
+  "src": "parque-mascotas_parque-canino.jpg",
+  "orig": [
+   1201,
+   1081
+  ],
+  "widths": [
+   1201,
+   800
+  ],
+  "files": [
+   [
+    "parque-mascotas-2-1201.webp",
+    279358
+   ],
+   [
+    "parque-mascotas-2-1201.avif",
+    238298
+   ],
+   [
+    "parque-mascotas-2-800.webp",
+    121334
+   ],
+   [
+    "parque-mascotas-2-800.avif",
+    102661
+   ]
+  ]
+ },
+ {
+  "slug": "piscina-familia",
+  "src": "ia-piscina-familia.png",
+  "orig": [
+   1365,
+   768
+  ],
+  "widths": [
+   1365,
+   1280,
+   800
+  ],
+  "files": [
+   [
+    "piscina-familia-1365.webp",
+    150302
+   ],
+   [
+    "piscina-familia-1365.avif",
+    117692
+   ],
+   [
+    "piscina-familia-1280.webp",
+    133272
+   ],
+   [
+    "piscina-familia-1280.avif",
+    102731
+   ],
+   [
+    "piscina-familia-800.webp",
+    59914
+   ],
+   [
+    "piscina-familia-800.avif",
+    47844
+   ]
+  ]
+ },
+ {
+  "slug": "piscina",
+  "src": "piscina_CCLUBNOVA_6.jpg",
+  "orig": [
+   1920,
+   1080
+  ],
+  "widths": [
+   1920,
+   1280,
+   800
+  ],
+  "files": [
+   [
+    "piscina-1920.webp",
+    236776
+   ],
+   [
+    "piscina-1920.avif",
+    186856
+   ],
+   [
+    "piscina-1280.webp",
+    105828
+   ],
+   [
+    "piscina-1280.avif",
+    84382
+   ],
+   [
+    "piscina-800.webp",
+    47660
+   ],
+   [
+    "piscina-800.avif",
+    37806
+   ]
+  ]
+ },
+ {
+  "slug": "valle-novarum",
+  "src": "casas-novarum_1_8.jpg",
+  "orig": [
+   3840,
+   2160
+  ],
+  "widths": [
+   1600,
+   1100,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "valle-novarum-1600.webp",
+    55674
+   ],
+   [
+    "valle-novarum-1600.avif",
+    41176
+   ],
+   [
+    "valle-novarum-1100.webp",
+    31514
+   ],
+   [
+    "valle-novarum-1100.avif",
+    23790
+   ],
+   [
+    "valle-novarum-800.webp",
+    19746
+   ],
+   [
+    "valle-novarum-800.avif",
+    14719
+   ],
+   [
+    "valle-novarum-500.webp",
+    9798
+   ],
+   [
+    "valle-novarum-500.avif",
+    7701
+   ]
+  ]
+ },
+ {
+  "slug": "valle-barani",
+  "src": "valle-barani_2plantas_barani_render.jpg",
+  "orig": [
+   5692,
+   3200
+  ],
+  "widths": [
+   1600,
+   1100,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "valle-barani-1600.webp",
+    146938
+   ],
+   [
+    "valle-barani-1600.avif",
+    121551
+   ],
+   [
+    "valle-barani-1100.webp",
+    79772
+   ],
+   [
+    "valle-barani-1100.avif",
+    71151
+   ],
+   [
+    "valle-barani-800.webp",
+    47646
+   ],
+   [
+    "valle-barani-800.avif",
+    43948
+   ],
+   [
+    "valle-barani-500.webp",
+    21848
+   ],
+   [
+    "valle-barani-500.avif",
+    21969
+   ]
+  ]
+ },
+ {
+  "slug": "valle-castilla",
+  "src": "castilla-prueba27.png",
+  "orig": [
+   2752,
+   1536
+  ],
+  "widths": [
+   1600,
+   1100,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "valle-castilla-1600.webp",
+    136906
+   ],
+   [
+    "valle-castilla-1600.avif",
+    112546
+   ],
+   [
+    "valle-castilla-1100.webp",
+    68372
+   ],
+   [
+    "valle-castilla-1100.avif",
+    54923
+   ],
+   [
+    "valle-castilla-800.webp",
+    37900
+   ],
+   [
+    "valle-castilla-800.avif",
+    29648
+   ],
+   [
+    "valle-castilla-500.webp",
+    17216
+   ],
+   [
+    "valle-castilla-500.avif",
+    13341
+   ]
+  ]
+ },
+ {
+  "slug": "casa-club",
+  "src": "casa-club_NNS_1_1.jpg",
+  "orig": [
+   1920,
+   1080
+  ],
+  "widths": [
+   1600,
+   1100,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "casa-club-1600.webp",
+    300798
+   ],
+   [
+    "casa-club-1600.avif",
+    262542
+   ],
+   [
+    "casa-club-1100.webp",
+    157196
+   ],
+   [
+    "casa-club-1100.avif",
+    137616
+   ],
+   [
+    "casa-club-800.webp",
+    88402
+   ],
+   [
+    "casa-club-800.avif",
+    76586
+   ],
+   [
+    "casa-club-500.webp",
+    36398
+   ],
+   [
+    "casa-club-500.avif",
+    32177
+   ]
+  ]
+ },
+ {
+  "slug": "gimnasio",
+  "src": "gimnasio_H.png",
+  "orig": [
+   1080,
+   1920
+  ],
+  "widths": [
+   1080,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "gimnasio-1080.webp",
+    355424
+   ],
+   [
+    "gimnasio-1080.avif",
+    267034
+   ],
+   [
+    "gimnasio-800.webp",
+    216140
+   ],
+   [
+    "gimnasio-800.avif",
+    170496
+   ],
+   [
+    "gimnasio-500.webp",
+    92960
+   ],
+   [
+    "gimnasio-500.avif",
+    75699
+   ]
+  ]
+ },
+ {
+  "slug": "yoga",
+  "src": "yoga_H.png",
+  "orig": [
+   1080,
+   1920
+  ],
+  "widths": [
+   1080,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "yoga-1080.webp",
+    293116
+   ],
+   [
+    "yoga-1080.avif",
+    235110
+   ],
+   [
+    "yoga-800.webp",
+    166500
+   ],
+   [
+    "yoga-800.avif",
+    133839
+   ],
+   [
+    "yoga-500.webp",
+    71910
+   ],
+   [
+    "yoga-500.avif",
+    56915
+   ]
+  ]
+ },
+ {
+  "slug": "cancha-sintetica",
+  "src": "cancha-sintetica_H.png",
+  "orig": [
+   1080,
+   1920
+  ],
+  "widths": [
+   1080,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "cancha-sintetica-1080.webp",
+    207996
+   ],
+   [
+    "cancha-sintetica-1080.avif",
+    155328
+   ],
+   [
+    "cancha-sintetica-800.webp",
+    134972
+   ],
+   [
+    "cancha-sintetica-800.avif",
+    104567
+   ],
+   [
+    "cancha-sintetica-500.webp",
+    62208
+   ],
+   [
+    "cancha-sintetica-500.avif",
+    49127
+   ]
+  ]
+ },
+ {
+  "slug": "circuito-atletico",
+  "src": "circuito-atletico_H.png",
+  "orig": [
+   1080,
+   1920
+  ],
+  "widths": [
+   1080,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "circuito-atletico-1080.webp",
+    151304
+   ],
+   [
+    "circuito-atletico-1080.avif",
+    112547
+   ],
+   [
+    "circuito-atletico-800.webp",
+    100666
+   ],
+   [
+    "circuito-atletico-800.avif",
+    78218
+   ],
+   [
+    "circuito-atletico-500.webp",
+    51888
+   ],
+   [
+    "circuito-atletico-500.avif",
+    42225
+   ]
+  ]
+ },
+ {
+  "slug": "juegos-infantiles",
+  "src": "juegos-infantiles_H.png",
+  "orig": [
+   1080,
+   1920
+  ],
+  "widths": [
+   1080,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "juegos-infantiles-1080.webp",
+    473260
+   ],
+   [
+    "juegos-infantiles-1080.avif",
+    362804
+   ],
+   [
+    "juegos-infantiles-800.webp",
+    309562
+   ],
+   [
+    "juegos-infantiles-800.avif",
+    248145
+   ],
+   [
+    "juegos-infantiles-500.webp",
+    133000
+   ],
+   [
+    "juegos-infantiles-500.avif",
+    114567
+   ]
+  ]
+ },
+ {
+  "slug": "parque-mascotas",
+  "src": "parque-mascotas_parque-canino.jpg",
+  "orig": [
+   1201,
+   1081
+  ],
+  "widths": [
+   1201,
+   1100,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "parque-mascotas-1201.webp",
+    279358
+   ],
+   [
+    "parque-mascotas-1201.avif",
+    238298
+   ],
+   [
+    "parque-mascotas-1100.webp",
+    226020
+   ],
+   [
+    "parque-mascotas-1100.avif",
+    189533
+   ],
+   [
+    "parque-mascotas-800.webp",
+    121334
+   ],
+   [
+    "parque-mascotas-800.avif",
+    102661
+   ],
+   [
+    "parque-mascotas-500.webp",
+    49128
+   ],
+   [
+    "parque-mascotas-500.avif",
+    41425
+   ]
+  ]
+ },
+ {
+  "slug": "plaza-diagonal",
+  "src": "ia-drone-novarum.png",
+  "orig": [
+   1376,
+   768
+  ],
+  "widths": [
+   1376,
+   1100,
+   800,
+   500
+  ],
+  "files": [
+   [
+    "plaza-diagonal-1376.webp",
+    213698
+   ],
+   [
+    "plaza-diagonal-1376.avif",
+    177485
+   ],
+   [
+    "plaza-diagonal-1100.webp",
+    146322
+   ],
+   [
+    "plaza-diagonal-1100.avif",
+    124372
+   ],
+   [
+    "plaza-diagonal-800.webp",
+    85812
+   ],
+   [
+    "plaza-diagonal-800.avif",
+    73345
+   ],
+   [
+    "plaza-diagonal-500.webp",
+    37364
+   ],
+   [
+    "plaza-diagonal-500.avif",
+    32521
    ]
   ]
  }

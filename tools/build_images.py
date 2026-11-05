@@ -58,3 +58,4 @@ if __name__ == "__main__":
         except Exception as ex:
             print(f"{e['slug']:<22} ERROR {ex}")
     json.dump(results, open(os.path.join(outdir, "_manifest.json"), "w"), indent=1)
+    json.dump({r["slug"]: r["widths"] for r in results if r.get("widths")}, open(os.path.join(outdir, "manifest.json"), "w"), separators=(",", ":"))
